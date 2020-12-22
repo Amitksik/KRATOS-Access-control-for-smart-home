@@ -28,10 +28,10 @@ KRATOS enforce policies both in the devices and smart home apps. We have integra
 Please check our recent publication in the Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks.
 [1] Amit Kumar Sikder, Leonardo Babun, Z. Berkay Celik, Abbas Acar, Hidayet Aksu, Patrick McDaniel, Engin Kirda, and A. Selcuk Uluagac. "Kratos: multi-user multi-device-aware access control system for the smart home." In Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks, pp. 1-12. 2020.
 
-@inproceedings{sikder2020kratos,
-  title={Kratos: multi-user multi-device-aware access control system for the smart home},
-  author={Sikder, Amit Kumar and Babun, Leonardo and Celik, Z Berkay and Acar, Abbas and Aksu, Hidayet and McDaniel, Patrick and Kirda, Engin and Uluagac, A Selcuk},
-  booktitle={Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks},
-  pages={1--12},
-  year={2020}
+@inproceedings{sikder2020kratos,<br />
+  title={Kratos: multi-user multi-device-aware access control system for the smart home},<br />
+  author={Sikder, Amit Kumar and Babun, Leonardo and Celik, Z Berkay and Acar, Abbas and Aksu, Hidayet and McDaniel, Patrick and Kirda, Engin and Uluagac, A Selcuk},<br />
+  booktitle={Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks},<br />
+  pages={1--12},<br />
+  year={2020}<br />
 }

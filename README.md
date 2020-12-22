@@ -23,6 +23,7 @@ Policy genrator of KRATOS uses MATLAB to create a online server. It captures the
 ### 3. Policy Execution:
 KRATOS enforce policies both in the devices and smart home apps. We have integrated KRATOS in Samsung SmartThings platforms and modified SmartThings apps and device handlers (SmartThings Integration folder). We will soon release an automated tool to modify smart home apps to integrate KRATOS in different platforms.
 
+(N.B. This version of KRATOS is compatible with traditional Samsung SmartThings app. We will release a version compatible to new SmartThings app soon.)
 
 # Publication and Reference
 Please check our recent publication in the Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks.

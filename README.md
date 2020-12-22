@@ -7,7 +7,7 @@ KRATOS is a multi-user multi-device-aware access control system designed for the
 # Installation
 KRATOS has three main parts - User Interaction Module, Policy Generator and Policy Execution. We have integrated Policy negotiation technique as a notification system in policy execution module.
 
-1. User Interaction Module:
+### 1. User Interaction Module:
 User interaction module create a user interface to add new users and device policies to the smart home system. We have created a Samsung SmartThings app (Kratos app in Integration folder) to build the user interaction module. This app provides a GUi to the users smartphones (similar to following images).
 
 <p float="left">
@@ -17,5 +17,10 @@ User interaction module create a user interface to add new users and device poli
 </p>
 
 
-1. Policy Generator:
-Policy genrator of KRATOS uses MATLAB to create a online server. 
+### 2. Policy Generator:
+Policy genrator of KRATOS uses MATLAB to create a online server. It captures the policies from user interaction module via backened server (online google spreadsheet as server) and starts policy generation process. It creates the final policies and starts the policy negotiation if necessary.
+
+### 3. Policy Execution:
+KRATOS enforce policies both in the devices and smart home apps. We have integrated KRATOS in Samsung SmartThings platforms and modified SmartThings apps and device handlers (SmartThings Integration folder). We will soon release an automated tool to modify smart home apps to integrate KRATOS in different platforms.
+
+

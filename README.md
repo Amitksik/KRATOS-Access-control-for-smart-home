@@ -18,7 +18,7 @@ User interaction module create a user interface to add new users and device poli
 
 
 ### 2. Policy Generator:
-Policy genrator of KRATOS uses MATLAB to create a online server. It captures the policies from user interaction module via backened server (online google spreadsheet as server) and starts policy generation process. It creates the final policies and starts the policy negotiation if necessary.
+Policy genrator of KRATOS uses MATLAB to create a online server. It captures the policies from user interaction module via backened server and starts policy generation process. It creates the final policies and starts the policy negotiation if necessary.
 
 ### 3. Policy Execution:
 KRATOS enforce policies both in the devices and smart home apps. We have integrated KRATOS in Samsung SmartThings platforms and modified SmartThings apps and device handlers (SmartThings Integration folder). We will soon release an automated tool to modify smart home apps to integrate KRATOS in different platforms.

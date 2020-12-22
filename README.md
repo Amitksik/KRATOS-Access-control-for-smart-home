@@ -24,3 +24,14 @@ Policy genrator of KRATOS uses MATLAB to create a online server. It captures the
 KRATOS enforce policies both in the devices and smart home apps. We have integrated KRATOS in Samsung SmartThings platforms and modified SmartThings apps and device handlers (SmartThings Integration folder). We will soon release an automated tool to modify smart home apps to integrate KRATOS in different platforms.
 
 
+# Publication and Reference
+Please check our recent publication in the Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks.
+[1] Amit Kumar Sikder, Leonardo Babun, Z. Berkay Celik, Abbas Acar, Hidayet Aksu, Patrick McDaniel, Engin Kirda, and A. Selcuk Uluagac. "Kratos: multi-user multi-device-aware access control system for the smart home." In Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks, pp. 1-12. 2020.
+
+@inproceedings{sikder2020kratos,
+  title={Kratos: multi-user multi-device-aware access control system for the smart home},
+  author={Sikder, Amit Kumar and Babun, Leonardo and Celik, Z Berkay and Acar, Abbas and Aksu, Hidayet and McDaniel, Patrick and Kirda, Engin and Uluagac, A Selcuk},
+  booktitle={Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks},
+  pages={1--12},
+  year={2020}
+}

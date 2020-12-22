@@ -9,7 +9,13 @@ KRATOS has three main parts - User Interaction Module, Policy Generator and Poli
 
 1. User Interaction Module:
 User interaction module create a user interface to add new users and device policies to the smart home system. We have created a Samsung SmartThings app (Kratos app in Integration folder) to build the user interaction module. This app provides a GUi to the users smartphones (similar to following images).
-<img src="https://github.com/Amitksik/KRATOS-Access-control-for-smart-home/blob/main/Images/usermanagement.PNG" width="300" height="500">
+
+<p float="left">
+  <img src="https://github.com/Amitksik/KRATOS-Access-control-for-smart-home/blob/main/Images/usermanagement.PNG" width="300" height="500">
+  <img src="https://github.com/Amitksik/KRATOS-Access-control-for-smart-home/blob/main/Images/policymanagement.PNG" width="300" height="500" /> 
+  <img src="https://github.com/Amitksik/KRATOS-Access-control-for-smart-home/blob/main/Images/instruction.jpg" width="300" height="500" />
+</p>
+
 
 1. Policy Generator:
 Policy genrator of KRATOS uses MATLAB to create a online server. 

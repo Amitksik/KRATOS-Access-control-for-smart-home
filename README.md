@@ -3,3 +3,6 @@ KRATOS is a multi-user multi-device-aware access control system designed for the
 
 # KRATOS Framework
 ![alt text](https://github.com/Amitksik/KRATOS-Access-control-for-smart-home/blob/main/framework_journal.png)
+
+# Installation
+KRATOS has two main parts - Policy Manager and Policy Execution.
